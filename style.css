@@ -580,6 +580,9 @@ span {
     .home-img img{
         width: 100%;
     }
+    .heading {
+        font-size: 6rem;
+    }
     .text-animation {
         font-size: 4vw !important; 
         min-width: unset;
