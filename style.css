@@ -219,7 +219,7 @@ span {
     }
     41%,
     60% {
-        content: 'siber güvenlik';
+        content: 'ağ güvenliği';
     }
     61%,
     80% {
@@ -227,7 +227,7 @@ span {
     }
     81%,
     100% {
-        content: 'görsel tasarım';
+        content: 'müzik';
     }
 }
 
@@ -364,7 +364,7 @@ span {
 }
 
 .bar .progress-line.javascript span {
-    width: 40%;
+    width: 30%;
     background-color: yellow;
     box-shadow: 0 0 25px yellow;
     transition: 0.3s ease;
@@ -376,7 +376,7 @@ span {
 }
 
 .bar .progress-line.html span {
-    width: 100%;
+    width: 90%;
     background-color: orange;
     box-shadow: 0 0 25px orange;
     transition: 0.3s ease;
@@ -388,7 +388,7 @@ span {
 }
 
 .bar .progress-line.css span {
-    width: 80%;
+    width: 70%;
     background-color: blue;
     box-shadow: 0 0 25px blue;
     transition: 0.3s ease;
@@ -400,7 +400,7 @@ span {
 }
 
 .bar .progress-line.python span {
-    width: 70%;
+    width: 50%;
     background-color: green;
     box-shadow: 0 0 25px green;
     transition: 0.3s ease;
@@ -412,15 +412,15 @@ span {
 }
 
 .bar .progress-line.blender span {
-    width: 60%;
+    width: 40%;
     background-color: turquoise;
     box-shadow: 0 0 25px turquoise;
     transition: 0.3s ease;
 }
 
 .bar .progress-line.blender span:hover {
-    box-shadow: 0 0 25px red,
-                0 0 50px red;
+    box-shadow: 0 0 25px turquoise,
+                0 0 50px turquoise;
 }
 
 .contact {
